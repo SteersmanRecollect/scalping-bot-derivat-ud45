@@ -1,4 +1,4 @@
-# 
+# secure Trading Bot for scalping bot for derivatives | price-monitoring & position-sizing is the best scalping bot for derivatives, featuring price-monitoring and position-sizing.
 
 
 
